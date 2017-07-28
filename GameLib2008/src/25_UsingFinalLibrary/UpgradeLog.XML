@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="UsingFinalLibrary">
+</Property><Property Name="ソリューション ファイル" Value="D:\Hirayama-Common\doc\book\src2008\25_UsingFinalLibrary\UsingFinalLibrary.sln">
+</Property><Property Name="Date" Value="2008年8月28日">
+</Property><Property Name="Time" Value="19:10">
+</Property></Properties><Event ErrorLevel="0" Project="AntiAlias" Source="AntiAlias\AntiAlias.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="AntiAlias" Source="AntiAlias\AntiAlias.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="AntiAlias" Source="AntiAlias\AntiAlias.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="AntiAlias" Source="AntiAlias\AntiAlias.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DrawCube" Source="DrawCube\DrawCube.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="DrawCube" Source="DrawCube\DrawCube.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="DrawCube" Source="DrawCube\DrawCube.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="DrawCube" Source="DrawCube\DrawCube.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RoboFightUsingFinal" Source="RoboFightUsingFinal\RoboFightUsingFinal.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="RoboFightUsingFinal" Source="RoboFightUsingFinal\RoboFightUsingFinal.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="RoboFightUsingFinal" Source="RoboFightUsingFinal\RoboFightUsingFinal.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="RoboFightUsingFinal" Source="RoboFightUsingFinal\RoboFightUsingFinal.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TransparentCubes" Source="TransparentCubes\TransparentCubes.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="TransparentCubes" Source="TransparentCubes\TransparentCubes.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="TransparentCubes" Source="TransparentCubes\TransparentCubes.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="TransparentCubes" Source="TransparentCubes\TransparentCubes.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="UsingFinalLibrary.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="UsingFinalLibrary.sln" Description="Converted">
+</Event></UpgradeLog>

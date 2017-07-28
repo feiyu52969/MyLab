@@ -1,0 +1,16 @@
+.navbar.navbar-default
+  .container
+    .navbar-header
+      = link_to 'REVIEW-TWEETER', root_url, class: "navbar-brand"
+    - if logged_in?
+      %ul.nav.navbar-nav
+        %li= link_to "全ツイート一覧", tweets_path
+        %li= link_to "ユーザー一覧", users_path
+      %ul.nav.navbar-nav.navbar-right
+        %li= link_to current_user.name, current_user
+        %li= link_to "設定", edit_settings_path
+        %li= link_to "ログアウト", sessions_path, method: :delete
+    - else
+      %ul.nav.navbar-nav.navbar-right
+        %li= link_to "アカウント登録", new_registrations_path
+        %li= link_to "ログイン", new_sessions_path

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="2DGraphics2">
+</Property><Property Name="ソリューション ファイル" Value="D:\Hirayama-Common\doc\book\src2008\03_2DGraphics2\2DGraphics2.sln">
+</Property><Property Name="Date" Value="2008年8月28日">
+</Property><Property Name="Time" Value="17:38">
+</Property></Properties><Event ErrorLevel="0" Project="displayImage" Source="displayImage\displayImage.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="displayImage" Source="displayImage\displayImage.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="displayImage" Source="displayImage\displayImage.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="displayImage" Source="displayImage\displayImage.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="displayImagePartially" Source="displayImagePartially\displayImagePartially.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="displayImagePartially" Source="displayImagePartially\displayImagePartially.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="displayImagePartially" Source="displayImagePartially\displayImagePartially.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="displayImagePartially" Source="displayImagePartially\displayImagePartially.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NimotsuKunAlphaTest" Source="NimotsuKunAlphaTest\NimotsuKunAlphaTest.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="NimotsuKunAlphaTest" Source="NimotsuKunAlphaTest\NimotsuKunAlphaTest.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="NimotsuKunAlphaTest" Source="NimotsuKunAlphaTest\NimotsuKunAlphaTest.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="NimotsuKunAlphaTest" Source="NimotsuKunAlphaTest\NimotsuKunAlphaTest.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="displayImageAlphaTest" Source="displayImageAlphaTest\displayImageAlphaTest.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="displayImageAlphaTest" Source="displayImageAlphaTest\displayImageAlphaTest.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="displayImageAlphaTest" Source="displayImageAlphaTest\displayImageAlphaTest.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="displayImageAlphaTest" Source="displayImageAlphaTest\displayImageAlphaTest.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="displayImageAlphaBlend" Source="displayImageAlphaBlend\displayImageAlphaBlend.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="displayImageAlphaBlend" Source="displayImageAlphaBlend\displayImageAlphaBlend.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="displayImageAlphaBlend" Source="displayImageAlphaBlend\displayImageAlphaBlend.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="displayImageAlphaBlend" Source="displayImageAlphaBlend\displayImageAlphaBlend.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NimotsuKunAlphaBlend" Source="NimotsuKunAlphaBlend\NimotsuKunAlphaBlend.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="NimotsuKunAlphaBlend" Source="NimotsuKunAlphaBlend\NimotsuKunAlphaBlend.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="NimotsuKunAlphaBlend" Source="NimotsuKunAlphaBlend\NimotsuKunAlphaBlend.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="NimotsuKunAlphaBlend" Source="NimotsuKunAlphaBlend\NimotsuKunAlphaBlend.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="displayImageAdditionalBlend" Source="displayImageAdditionalBlend\displayImageAdditionalBlend.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="displayImageAdditionalBlend" Source="displayImageAdditionalBlend\displayImageAdditionalBlend.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="displayImageAdditionalBlend" Source="displayImageAdditionalBlend\displayImageAdditionalBlend.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="displayImageAdditionalBlend" Source="displayImageAdditionalBlend\displayImageAdditionalBlend.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NimotsuKunImage" Source="NimotsuKunImage\NimotsuKunImage.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="NimotsuKunImage" Source="NimotsuKunImage\NimotsuKunImage.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="NimotsuKunImage" Source="NimotsuKunImage\NimotsuKunImage.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="NimotsuKunImage" Source="NimotsuKunImage\NimotsuKunImage.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="2DGraphics2.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="2DGraphics2.sln" Description="Converted">
+</Event></UpgradeLog>

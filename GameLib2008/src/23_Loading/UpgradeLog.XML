@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Loading">
+</Property><Property Name="ソリューション ファイル" Value="D:\Hirayama-Common\doc\book\src2008\23_Loading\Loading.sln">
+</Property><Property Name="Date" Value="2008年8月28日">
+</Property><Property Name="Time" Value="19:07">
+</Property></Properties><Event ErrorLevel="0" Project="SimpleLoader" Source="SimpleLoader\SimpleLoader.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="SimpleLoader" Source="SimpleLoader\SimpleLoader.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="SimpleLoader" Source="SimpleLoader\SimpleLoader.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="SimpleLoader" Source="SimpleLoader\SimpleLoader.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="OneFilePerFrame" Source="OneFilePerFrame\OneFilePerFrame.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="OneFilePerFrame" Source="OneFilePerFrame\OneFilePerFrame.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="OneFilePerFrame" Source="OneFilePerFrame\OneFilePerFrame.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="OneFilePerFrame" Source="OneFilePerFrame\OneFilePerFrame.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConstantRate" Source="ConstantRate\ConstantRate.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="ConstantRate" Source="ConstantRate\ConstantRate.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="ConstantRate" Source="ConstantRate\ConstantRate.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="ConstantRate" Source="ConstantRate\ConstantRate.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SimpleThread" Source="SimpleThread\SimpleThread.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="SimpleThread" Source="SimpleThread\SimpleThread.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="SimpleThread" Source="SimpleThread\SimpleThread.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="SimpleThread" Source="SimpleThread\SimpleThread.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LoadingUsingThread" Source="LoadingUsingThread\LoadingUsingThread.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="LoadingUsingThread" Source="LoadingUsingThread\LoadingUsingThread.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="LoadingUsingThread" Source="LoadingUsingThread\LoadingUsingThread.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="LoadingUsingThread" Source="LoadingUsingThread\LoadingUsingThread.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WrongIncermentation" Source="WrongIncermentation\WrongIncermentation.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="WrongIncermentation" Source="WrongIncermentation\WrongIncermentation.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="WrongIncermentation" Source="WrongIncermentation\WrongIncermentation.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="WrongIncermentation" Source="WrongIncermentation\WrongIncermentation.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WrongIncrementation2" Source="WrongIncrementation2\WrongIncrementation2.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="WrongIncrementation2" Source="WrongIncrementation2\WrongIncrementation2.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="WrongIncrementation2" Source="WrongIncrementation2\WrongIncrementation2.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="WrongIncrementation2" Source="WrongIncrementation2\WrongIncrementation2.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CorrectIncrementation" Source="CorrectIncrementation\CorrectIncrementation.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="CorrectIncrementation" Source="CorrectIncrementation\CorrectIncrementation.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="CorrectIncrementation" Source="CorrectIncrementation\CorrectIncrementation.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="CorrectIncrementation" Source="CorrectIncrementation\CorrectIncrementation.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RaceCondition" Source="RaceCondition\RaceCondition.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="RaceCondition" Source="RaceCondition\RaceCondition.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="RaceCondition" Source="RaceCondition\RaceCondition.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="RaceCondition" Source="RaceCondition\RaceCondition.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RaceCondition2" Source="RaceCondition2\RaceCondition2.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="RaceCondition2" Source="RaceCondition2\RaceCondition2.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="RaceCondition2" Source="RaceCondition2\RaceCondition2.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="RaceCondition2" Source="RaceCondition2\RaceCondition2.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LoaderUsingThread" Source="LoaderUsingThread\LoaderUsingThread.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="LoaderUsingThread" Source="LoaderUsingThread\LoaderUsingThread.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="LoaderUsingThread" Source="LoaderUsingThread\LoaderUsingThread.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="LoaderUsingThread" Source="LoaderUsingThread\LoaderUsingThread.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Archiver1" Source="Archiver1\Archiver1.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="Archiver1" Source="Archiver1\Archiver1.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="Archiver1" Source="Archiver1\Archiver1.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="Archiver1" Source="Archiver1\Archiver1.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LoaderWithArchiveAccess" Source="LoaderWithArchiveAccess\LoaderWithArchiveAccess.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="LoaderWithArchiveAccess" Source="LoaderWithArchiveAccess\LoaderWithArchiveAccess.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="LoaderWithArchiveAccess" Source="LoaderWithArchiveAccess\LoaderWithArchiveAccess.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="LoaderWithArchiveAccess" Source="LoaderWithArchiveAccess\LoaderWithArchiveAccess.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RunLengthCompression" Source="RunLengthCompression\RunLengthCompression.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="RunLengthCompression" Source="RunLengthCompression\RunLengthCompression.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="RunLengthCompression" Source="RunLengthCompression\RunLengthCompression.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="RunLengthCompression" Source="RunLengthCompression\RunLengthCompression.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DictionaryCompression" Source="DictionaryCompression\DictionaryCompression.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="DictionaryCompression" Source="DictionaryCompression\DictionaryCompression.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="DictionaryCompression" Source="DictionaryCompression\DictionaryCompression.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="DictionaryCompression" Source="DictionaryCompression\DictionaryCompression.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="HuffmanCoder" Source="HuffmanCoder\HuffmanCoder.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="HuffmanCoder" Source="HuffmanCoder\HuffmanCoder.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="HuffmanCoder" Source="HuffmanCoder\HuffmanCoder.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="HuffmanCoder" Source="HuffmanCoder\HuffmanCoder.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RangeCoder" Source="RangeCoder\RangeCoder.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="RangeCoder" Source="RangeCoder\RangeCoder.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="RangeCoder" Source="RangeCoder\RangeCoder.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="RangeCoder" Source="RangeCoder\RangeCoder.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Loading.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="Loading.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="3DHardware1">
+</Property><Property Name="ソリューション ファイル" Value="D:\Hirayama-Common\doc\book\src2008\13_3DHardware1\3DHardware1.sln">
+</Property><Property Name="Date" Value="2008年8月28日">
+</Property><Property Name="Time" Value="17:50">
+</Property></Properties><Event ErrorLevel="0" Project="DrawTriangle" Source="DrawTriangle\DrawTriangle.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="DrawTriangle" Source="DrawTriangle\DrawTriangle.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="DrawTriangle" Source="DrawTriangle\DrawTriangle.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="DrawTriangle" Source="DrawTriangle\DrawTriangle.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DrawColoredTriangle" Source="DrawColoredTriangle\DrawColoredTriangle.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="DrawColoredTriangle" Source="DrawColoredTriangle\DrawColoredTriangle.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="DrawColoredTriangle" Source="DrawColoredTriangle\DrawColoredTriangle.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="DrawColoredTriangle" Source="DrawColoredTriangle\DrawColoredTriangle.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DrawTexturedTriangle" Source="DrawTexturedTriangle\DrawTexturedTriangle.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="DrawTexturedTriangle" Source="DrawTexturedTriangle\DrawTexturedTriangle.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="DrawTexturedTriangle" Source="DrawTexturedTriangle\DrawTexturedTriangle.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="DrawTexturedTriangle" Source="DrawTexturedTriangle\DrawTexturedTriangle.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DrawColoredAndTexturedTriangle" Source="DrawColoredAndTexturedTriangle\DrawColoredAndTexturedTriangle.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="DrawColoredAndTexturedTriangle" Source="DrawColoredAndTexturedTriangle\DrawColoredAndTexturedTriangle.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="DrawColoredAndTexturedTriangle" Source="DrawColoredAndTexturedTriangle\DrawColoredAndTexturedTriangle.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="DrawColoredAndTexturedTriangle" Source="DrawColoredAndTexturedTriangle\DrawColoredAndTexturedTriangle.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AlphaBlend" Source="AlphaBlend\AlphaBlend.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="AlphaBlend" Source="AlphaBlend\AlphaBlend.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="AlphaBlend" Source="AlphaBlend\AlphaBlend.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="AlphaBlend" Source="AlphaBlend\AlphaBlend.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Transform" Source="Transform\Transform.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="Transform" Source="Transform\Transform.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="Transform" Source="Transform\Transform.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="Transform" Source="Transform\Transform.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BakudanBitoUsingHardware" Source="BakudanBitoUsingHardware\BakudanBitoUsingHardware.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="BakudanBitoUsingHardware" Source="BakudanBitoUsingHardware\BakudanBitoUsingHardware.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="BakudanBitoUsingHardware" Source="BakudanBitoUsingHardware\BakudanBitoUsingHardware.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="BakudanBitoUsingHardware" Source="BakudanBitoUsingHardware\BakudanBitoUsingHardware.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="3DHardware1.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="3DHardware1.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PseudoXml">
+</Property><Property Name="ソリューション ファイル" Value="D:\Hirayama-Common\doc\book\src2008\16_PseudoXml\PseudoXml.sln">
+</Property><Property Name="Date" Value="2008年8月28日">
+</Property><Property Name="Time" Value="17:53">
+</Property></Properties><Event ErrorLevel="0" Project="MinimumImplementation" Source="MinimumImplementation\MinimumImplementation.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="MinimumImplementation" Source="MinimumImplementation\MinimumImplementation.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="MinimumImplementation" Source="MinimumImplementation\MinimumImplementation.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="MinimumImplementation" Source="MinimumImplementation\MinimumImplementation.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PseudoXml.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="PseudoXml.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="2DGraphics1">
+</Property><Property Name="ソリューション ファイル" Value="D:\Hirayama-Common\doc\book\src2008\02_2DGraphics1\2DGraphics1.sln">
+</Property><Property Name="Date" Value="2008年8月28日">
+</Property><Property Name="Time" Value="17:37">
+</Property></Properties><Event ErrorLevel="0" Project="drawPixels" Source="drawPixels\drawPixels.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="drawPixels" Source="drawPixels\drawPixels.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="drawPixels" Source="drawPixels\drawPixels.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="drawPixels" Source="drawPixels\drawPixels.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NimotsuKunTextOnly" Source="NimotsuKunTextOnly\NimotsuKunTextOnly.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="NimotsuKunTextOnly" Source="NimotsuKunTextOnly\NimotsuKunTextOnly.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="NimotsuKunTextOnly" Source="NimotsuKunTextOnly\NimotsuKunTextOnly.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="NimotsuKunTextOnly" Source="NimotsuKunTextOnly\NimotsuKunTextOnly.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NimotuKunDot" Source="NimotuKunDot\NimotuKunDot.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="NimotuKunDot" Source="NimotuKunDot\NimotuKunDot.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="NimotuKunDot" Source="NimotuKunDot\NimotuKunDot.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="NimotuKunDot" Source="NimotuKunDot\NimotuKunDot.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NimotsuKunBox" Source="NimotsuKunBox\NimotsuKunBox.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="NimotsuKunBox" Source="NimotsuKunBox\NimotsuKunBox.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="NimotsuKunBox" Source="NimotsuKunBox\NimotsuKunBox.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="NimotsuKunBox" Source="NimotsuKunBox\NimotsuKunBox.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NimotsuKunBoxWithTermination" Source="NimotsuKunBoxWithTermination\NimotsuKunBoxWithTermination.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="NimotsuKunBoxWithTermination" Source="NimotsuKunBoxWithTermination\NimotsuKunBoxWithTermination.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="NimotsuKunBoxWithTermination" Source="NimotsuKunBoxWithTermination\NimotsuKunBoxWithTermination.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="NimotsuKunBoxWithTermination" Source="NimotsuKunBoxWithTermination\NimotsuKunBoxWithTermination.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="2DGraphics1.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="2DGraphics1.sln" Description="Converted">
+</Event></UpgradeLog>

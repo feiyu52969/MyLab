@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="XFile">
+      <UniqueIdentifier>{55d2074c-4022-41bc-bee9-3afaf7f00313}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="XFile\Document.cpp">
+      <Filter>XFile</Filter>
+    </ClCompile>
+    <ClCompile Include="XFile\Element.cpp">
+      <Filter>XFile</Filter>
+    </ClCompile>
+    <ClCompile Include="XFile\Parser.cpp">
+      <Filter>XFile</Filter>
+    </ClCompile>
+    <ClCompile Include="XFile\Template.cpp">
+      <Filter>XFile</Filter>
+    </ClCompile>
+    <ClCompile Include="conversion.cpp" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="XFile\Document.h">
+      <Filter>XFile</Filter>
+    </ClInclude>
+    <ClInclude Include="XFile\Element.h">
+      <Filter>XFile</Filter>
+    </ClInclude>
+    <ClInclude Include="XFile\Parser.h">
+      <Filter>XFile</Filter>
+    </ClInclude>
+    <ClInclude Include="XFile\StandardTemplates.h">
+      <Filter>XFile</Filter>
+    </ClInclude>
+    <ClInclude Include="XFile\Template.h">
+      <Filter>XFile</Filter>
+    </ClInclude>
+    <ClInclude Include="XFile\Token.h">
+      <Filter>XFile</Filter>
+    </ClInclude>
+    <ClInclude Include="conversion.h" />
+    <ClInclude Include="XFileContents.h" />
+  </ItemGroup>
+</Project>

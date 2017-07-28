@@ -1,0 +1,35 @@
+.user-info
+  - if notice
+    .alert.alert-info= notice
+  %span.user-name
+    = render_user_screen_name(@user)
+  %span.user-id
+    @#{@user.name}
+  .bio
+    = @user.bio
+
+%ul.nav.nav-tabs.nav-justified
+  %li{ class: action_name == "show" ? "active" : nil }
+    = link_to user_path(@user) do
+      .text
+        つぶやき
+      .num
+        #{@user.tweets.count}
+  %li{ class: action_name == "follows" ? "active" : nil }
+    = link_to follows_user_path(@user) do
+      .text
+        フォロー
+      .num
+        #{@user.inverse_followers.count}
+  %li{ class: action_name == "followers" ? "active" : nil }
+    = link_to followers_user_path(@user) do
+      .text
+        フォロワー
+      .num
+        #{@user.followers.count}
+  %li{ class: action_name == "favorites" ? "active" : nil }
+    = link_to favorites_user_path(@user) do
+      .text
+        お気に入り
+      .num
+        #{@user.favorites.count}

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="3DGraphics1">
+</Property><Property Name="ソリューション ファイル" Value="D:\Hirayama-Common\doc\book\src2008\14_3DGraphics1\3DGraphics1.sln">
+</Property><Property Name="Date" Value="2008年8月28日">
+</Property><Property Name="Time" Value="17:51">
+</Property></Properties><Event ErrorLevel="0" Project="draw3DTriangle" Source="draw3DTriangle\draw3DTriangle.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="draw3DTriangle" Source="draw3DTriangle\draw3DTriangle.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="draw3DTriangle" Source="draw3DTriangle\draw3DTriangle.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="draw3DTriangle" Source="draw3DTriangle\draw3DTriangle.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ZTest" Source="ZTest\ZTest.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="ZTest" Source="ZTest\ZTest.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="ZTest" Source="ZTest\ZTest.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="ZTest" Source="ZTest\ZTest.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AlphaBlendAndZTest" Source="AlphaBlendAndZTest\AlphaBlendAndZTest.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="AlphaBlendAndZTest" Source="AlphaBlendAndZTest\AlphaBlendAndZTest.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="AlphaBlendAndZTest" Source="AlphaBlendAndZTest\AlphaBlendAndZTest.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="AlphaBlendAndZTest" Source="AlphaBlendAndZTest\AlphaBlendAndZTest.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="drawPerspectiveRect" Source="drawPerspectiveRect\drawPerspectiveRect.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="drawPerspectiveRect" Source="drawPerspectiveRect\drawPerspectiveRect.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="drawPerspectiveRect" Source="drawPerspectiveRect\drawPerspectiveRect.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="drawPerspectiveRect" Source="drawPerspectiveRect\drawPerspectiveRect.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="drawPerspectiveRect2" Source="drawPerspectiveRect2\drawPerspectiveRect2.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="drawPerspectiveRect2" Source="drawPerspectiveRect2\drawPerspectiveRect2.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="drawPerspectiveRect2" Source="drawPerspectiveRect2\drawPerspectiveRect2.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="drawPerspectiveRect2" Source="drawPerspectiveRect2\drawPerspectiveRect2.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PerspectiveProblems" Source="PerspectiveProblems\PerspectiveProblems.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="PerspectiveProblems" Source="PerspectiveProblems\PerspectiveProblems.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="PerspectiveProblems" Source="PerspectiveProblems\PerspectiveProblems.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="PerspectiveProblems" Source="PerspectiveProblems\PerspectiveProblems.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PrespectiveProblems2" Source="PrespectiveProblems2\PrespectiveProblems2.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="PrespectiveProblems2" Source="PrespectiveProblems2\PrespectiveProblems2.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="PrespectiveProblems2" Source="PrespectiveProblems2\PrespectiveProblems2.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="PrespectiveProblems2" Source="PrespectiveProblems2\PrespectiveProblems2.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WorldTransform" Source="WorldTransform\WorldTransform.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="WorldTransform" Source="WorldTransform\WorldTransform.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="WorldTransform" Source="WorldTransform\WorldTransform.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="WorldTransform" Source="WorldTransform\WorldTransform.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="3DRotation" Source="3DRotation\3DRotation.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="3DRotation" Source="3DRotation\3DRotation.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="3DRotation" Source="3DRotation\3DRotation.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="3DRotation" Source="3DRotation\3DRotation.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ViewTransform" Source="ViewTransform\ViewTransform.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="ViewTransform" Source="ViewTransform\ViewTransform.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="ViewTransform" Source="ViewTransform\ViewTransform.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="ViewTransform" Source="ViewTransform\ViewTransform.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WholeTransform" Source="WholeTransform\WholeTransform.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="WholeTransform" Source="WholeTransform\WholeTransform.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="WholeTransform" Source="WholeTransform\WholeTransform.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="WholeTransform" Source="WholeTransform\WholeTransform.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RoboFightGraphicsOnly" Source="RoboFightGraphicsOnly\RoboFightGraphicsOnly.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="RoboFightGraphicsOnly" Source="RoboFightGraphicsOnly\RoboFightGraphicsOnly.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="RoboFightGraphicsOnly" Source="RoboFightGraphicsOnly\RoboFightGraphicsOnly.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="RoboFightGraphicsOnly" Source="RoboFightGraphicsOnly\RoboFightGraphicsOnly.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="3DGraphics1.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="3DGraphics1.sln" Description="Converted">
+</Event></UpgradeLog>

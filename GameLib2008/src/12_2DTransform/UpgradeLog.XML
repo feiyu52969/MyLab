@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="2DTransform">
+</Property><Property Name="ソリューション ファイル" Value="D:\Hirayama-Common\doc\book\src2008\12_2DTransform\2DTransform.sln">
+</Property><Property Name="Date" Value="2008年8月28日">
+</Property><Property Name="Time" Value="17:48">
+</Property></Properties><Event ErrorLevel="0" Project="Rotation1" Source="Rotation1\Rotation1.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="Rotation1" Source="Rotation1\Rotation1.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="Rotation1" Source="Rotation1\Rotation1.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="Rotation1" Source="Rotation1\Rotation1.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Rotation2" Source="Rotation2\Rotation2.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="Rotation2" Source="Rotation2\Rotation2.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="Rotation2" Source="Rotation2\Rotation2.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="Rotation2" Source="Rotation2\Rotation2.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RotationWithVector" Source="RotationWithVector\RotationWithVector.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="RotationWithVector" Source="RotationWithVector\RotationWithVector.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="RotationWithVector" Source="RotationWithVector\RotationWithVector.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="RotationWithVector" Source="RotationWithVector\RotationWithVector.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RotationWithMatrix" Source="RotationWithMatrix\RotationWithMatrix.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="RotationWithMatrix" Source="RotationWithMatrix\RotationWithMatrix.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="RotationWithMatrix" Source="RotationWithMatrix\RotationWithMatrix.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="RotationWithMatrix" Source="RotationWithMatrix\RotationWithMatrix.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RotationWithInterporation" Source="RotationWithInterporation\RotationWithInterporation.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="RotationWithInterporation" Source="RotationWithInterporation\RotationWithInterporation.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="RotationWithInterporation" Source="RotationWithInterporation\RotationWithInterporation.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="RotationWithInterporation" Source="RotationWithInterporation\RotationWithInterporation.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RotationWithRasterization" Source="RotationWithRasterization\RotationWithRasterization.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="RotationWithRasterization" Source="RotationWithRasterization\RotationWithRasterization.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="RotationWithRasterization" Source="RotationWithRasterization\RotationWithRasterization.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="RotationWithRasterization" Source="RotationWithRasterization\RotationWithRasterization.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Scaling" Source="Scaling\Scaling.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="Scaling" Source="Scaling\Scaling.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="Scaling" Source="Scaling\Scaling.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="Scaling" Source="Scaling\Scaling.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RotationAndScaling" Source="RotationAndScaling\RotationAndScaling.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="RotationAndScaling" Source="RotationAndScaling\RotationAndScaling.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="RotationAndScaling" Source="RotationAndScaling\RotationAndScaling.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="RotationAndScaling" Source="RotationAndScaling\RotationAndScaling.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TranslationWithMatrix23" Source="TranslationWithMatrix23\TranslationWithMatrix23.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="TranslationWithMatrix23" Source="TranslationWithMatrix23\TranslationWithMatrix23.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="TranslationWithMatrix23" Source="TranslationWithMatrix23\TranslationWithMatrix23.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="TranslationWithMatrix23" Source="TranslationWithMatrix23\TranslationWithMatrix23.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ScalingWithMatrix23" Source="ScalingWithMatrix23\ScalingWithMatrix23.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="ScalingWithMatrix23" Source="ScalingWithMatrix23\ScalingWithMatrix23.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="ScalingWithMatrix23" Source="ScalingWithMatrix23\ScalingWithMatrix23.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="ScalingWithMatrix23" Source="ScalingWithMatrix23\ScalingWithMatrix23.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RotationWithMatrix23" Source="RotationWithMatrix23\RotationWithMatrix23.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="RotationWithMatrix23" Source="RotationWithMatrix23\RotationWithMatrix23.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="RotationWithMatrix23" Source="RotationWithMatrix23\RotationWithMatrix23.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="RotationWithMatrix23" Source="RotationWithMatrix23\RotationWithMatrix23.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MergeMatrices" Source="MergeMatrices\MergeMatrices.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="MergeMatrices" Source="MergeMatrices\MergeMatrices.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="MergeMatrices" Source="MergeMatrices\MergeMatrices.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="MergeMatrices" Source="MergeMatrices\MergeMatrices.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="2DTransform.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="2DTransform.sln" Description="Converted">
+</Event></UpgradeLog>

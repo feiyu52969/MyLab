@@ -1,0 +1,2 @@
+﻿  main.cpp
+c:\users\titatsumi\desktop\myworks\gamelib2008\src\25_usingfinallibrary\antialias\main.cpp(4): fatal error C1083: include ファイルを開けません。'GameLib/Framework.h':No such file or directory

@@ -1,0 +1,35 @@
+#registrations-new
+  .col-xs-6.left-content
+    %h1 REVIEW-TWEETER
+    %p.desc
+      レヴューを呟くアプリです。まずは、アカウント登録から！そして、おもむろに呟きだしてください。
+    %p.desc
+      注意！！！もし気に入ったレヴューがある場合は、アプリ外部の、ファイル保存ができる何かしらのストレージに、保存してください。
+    %p.desc
+      データの紛失、破損、漏洩への安全に対して、管理、保証、責任の類は、一切合切、こちらは放棄しておりますので、自己責任でお願いします。
+    %p.desc
+      Copyright&copy; 2017 Hiroshi Yamanaka All Rights Reserved.
+    - if notice
+      %p
+        .alert.alert-info= notice
+  .col-xs-6.right-content
+    = form_for @user, url: registrations_path, method: :post do |f|
+      %h2
+        アカウント登録する
+      - @user.errors.each do |attr, message|
+        .alert.alert-danger= message
+      .form-group
+        = f.label :name, "ユーザーID:", class: "control-label"
+        = f.text_field :name, class: "form-control"
+      .form-group
+        = f.label :email, "メールアドレス:", class: "control-label"
+        = f.text_field :email, class: "form-control"
+      .form-group
+        = f.label :password, "パスワード（6文字以上）:", class: "control-label"
+        = f.password_field :password, class: "form-control"
+      .form-group
+        = f.label :password_confirmation, "確認用パスワード（6文字以上）:", class: "control-label"
+        = f.password_field :password_confirmation, class: "form-control"
+      = f.submit "登録する", class: "btn btn-primary"
+      = link_to "ログインする", new_sessions_path, class: "login pull-right"
+      .clear

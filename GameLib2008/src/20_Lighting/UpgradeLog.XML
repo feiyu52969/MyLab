@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Lighting">
+</Property><Property Name="ソリューション ファイル" Value="D:\Hirayama-Common\doc\book\src2008\20_Lighting\Lighting.sln">
+</Property><Property Name="Date" Value="2008年8月28日">
+</Property><Property Name="Time" Value="17:56">
+</Property></Properties><Event ErrorLevel="0" Project="RoboFightWithDiffuseLighting" Source="RoboFightWithDiffuseLighting\RoboFightWithDiffuseLighting.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="RoboFightWithDiffuseLighting" Source="RoboFightWithDiffuseLighting\RoboFightWithDiffuseLighting.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="RoboFightWithDiffuseLighting" Source="RoboFightWithDiffuseLighting\RoboFightWithDiffuseLighting.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="RoboFightWithDiffuseLighting" Source="RoboFightWithDiffuseLighting\RoboFightWithDiffuseLighting.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RoboFightWithSmoothShading" Source="RoboFightWithSmoothShading\RoboFightWithSmoothShading.vcproj" Description="ローカルの IIS サーバーへの Web 配置はサポートされなくなりました。Web 配置ビルド ツールはプロジェクト設定から削除されました。">
+</Event><Event ErrorLevel="1" Project="RoboFightWithSmoothShading" Source="RoboFightWithSmoothShading\RoboFightWithSmoothShading.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="RoboFightWithSmoothShading" Source="RoboFightWithSmoothShading\RoboFightWithSmoothShading.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="RoboFightWithSmoothShading" Source="RoboFightWithSmoothShading\RoboFightWithSmoothShading.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Lighting.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="Lighting.sln" Description="Converted">
+</Event></UpgradeLog>
