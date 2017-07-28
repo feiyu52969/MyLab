@@ -1,0 +1,14 @@
+#stories-content
+  .container
+    .row
+      .col-xs-5.left-content
+        = render partial: "panel"
+      .col-xs-7.right-content
+        - if notice
+          .alert.alert-info= notice
+        .list-group
+          .list-group-item
+            .btn-group
+              = link_to "全てのストーリー", stories_path, class: "active btn btn-primary"
+              = link_to "フォローしている人のストーリー", timeline_stories_path, class: "btn btn-default"
+          = render partial: "users/story", collection: @stories

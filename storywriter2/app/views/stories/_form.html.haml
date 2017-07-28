@@ -1,0 +1,49 @@
+= form_for @story do |f|
+  - if @story.errors.any?
+    #error_explanation
+      %h2= "#{pluralize(@story.errors.count, "error")} prohibited this story from being saved:"
+      %ul
+        - @story.errors.full_messages.each do |message|
+          %li= message
+
+  .field
+    = f.label :user_id
+    = f.number_field :user_id
+  .field
+    = f.label :Sw
+    = f.text_field :Sw
+  .field
+    = f.label :eve
+    = f.text_field :eve
+  .field
+    = f.label :mC
+    = f.text_field :mC
+  .field
+    = f.label :t
+    = f.text_field :t
+  .field
+    = f.label :opp
+    = f.text_field :opp
+  .field
+    = f.label :par
+    = f.text_field :par
+  .field
+    = f.label :nSw
+    = f.text_field :nSw
+  .field
+    = f.label :ttt
+    = f.text_field :ttt
+  .field
+    = f.label :P
+    = f.text_field :P
+  .field
+    = f.label :mSw
+    = f.text_field :mSw
+  .field
+    = f.label :Ce
+    = f.text_field :Ce
+  .field
+    = f.label :content
+    = f.text_field :content
+  .actions
+    = f.submit 'Save'

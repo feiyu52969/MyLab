@@ -1,0 +1,45 @@
+%p#notice= notice
+
+%p
+  %b User:
+  = @story.user_id
+%p
+  %b Sw:
+  = @story.Sw
+%p
+  %b Eve:
+  = @story.eve
+%p
+  %b Mc:
+  = @story.mC
+%p
+  %b T:
+  = @story.t
+%p
+  %b Opp:
+  = @story.opp
+%p
+  %b Par:
+  = @story.par
+%p
+  %b Nsw:
+  = @story.nSw
+%p
+  %b Ttt:
+  = @story.ttt
+%p
+  %b P:
+  = @story.P
+%p
+  %b Msw:
+  = @story.mSw
+%p
+  %b Ce:
+  = @story.Ce
+%p
+  %b Content:
+  = @story.content
+
+= link_to 'Edit', edit_story_path(@story)
+\|
+= link_to 'Back', stories_path

@@ -1,0 +1,135 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+ *= require_tree .
+ *= require_self
+ */
+
+ @import bootstrap
+
+ html, body
+  width: 100%
+  height: 100%
+
+#application
+  background-color: #f5f5f5
+
+.clear
+  clear: both
+
+#users-content
+  float: none
+  margin: 0 auto 35px
+  padding: 0px
+  background-color: #fff
+  border: 1px solid #ddd
+  border-radius: 6px
+  border-bottom-width: 3px
+  .list-group
+    margin-bottom: -1px
+    .list-group-item
+      border: none
+      border-bottom: 1px solid #ddd
+      margin-bottom: 0px
+      &:last-child
+      .user
+        .user-name
+          a
+            color: #555
+        .user-id
+          font-size: 14px
+          color: #aaa
+          font-weight: 400
+        .time
+          font-size: 12px
+          color: #aaa
+          font-weight: 400
+    .user-list
+      border-bottom-width: 2px
+      h2
+        font-size: 20px
+        margin: 0px
+  .user-info
+    padding: 20px 35px
+    .user-name
+      font-size: 28px
+      font-weight: 600
+    .user-id
+      font-size: 18px
+      color: #aaa
+    .bio
+      margin-top: 5px
+  .nav.nav-tabs
+    border-top: 1px solid #ddd
+    border-bottom: 2px solid #ddd
+    li
+      a
+        border: none
+        &:hover
+          background-color: #fff
+        .text
+        .num
+          font-size: 28px
+
+#stories-content
+  .left-content
+    .panel
+      box-shadow: none
+      border-bottom-width: 3px
+      .user
+        .user-name
+          font-size: 20px
+          font-weight: 600
+          color: #555
+        .user-id
+          color: #aaa
+        &:hover
+          text-decoration: none
+          border-bottom: 1px solid #555
+      .user-activity
+        text-align: center
+        .row
+          border-bottom: 1px solid #ddd
+          padding: 10px 0px
+          .text
+            font-size: 12px
+            color: #777
+          .num
+            font-size: 18px
+      .new_story
+        margin-top: 20px
+        textarea
+          width: 100% !important
+        .btn
+          width: 100%
+  .right-content
+    .list-group-item:last-child
+      border-bottom-width: 3px
+    .list-group-item
+      .user
+        .user-name
+          a
+            color: #555
+        .user-id
+          font-size: 14px
+          color: #aaa
+          font-weight: 400
+        .time
+          font-size: 12px
+          color: #aaa
+          font-weight: 400
+      .story-content
+        font-size: 16px
+        .content-footer
+          a
+            font-size: 12px
+            margin-right: 10px

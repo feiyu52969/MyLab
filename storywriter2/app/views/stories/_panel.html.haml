@@ -1,0 +1,51 @@
+- if logged_in?
+  .panel.panel-default
+    .panel-body
+      = link_to user_path(current_user), class: "user" do
+        %span.user-name
+          = render_user_screen_name current_user
+        %span.user-id
+          @#{current_user.name}
+      .user-activity
+        .row
+          .col-xs-4.stories-num
+            .text
+              ストーリー
+            .num
+              = link_to current_user.stories.count, user_path(current_user)
+          .col-xs-4.follow-num
+            .text
+              フォロー
+            .num
+              = link_to current_user.inverse_followers.count, follows_user_path(current_user)
+          .col-xs-4.follower-num
+            .text
+              フォロワー
+            .num
+              = link_to current_user.followers.count, followers_user_path(current_user)
+      - @story.errors.full_messages.each do |message|
+        .alert.alert-danger= message
+      = form_for @story do |f|
+        .form-group
+          = f.text_area :Sw, class: "form-control"
+        .form-group
+          = f.text_area :eve, class: "form-control"
+        .form-group
+          = f.text_area :mC, class: "form-control"
+        .form-group
+          = f.text_area :t, class: "form-control"
+        .form-group
+          = f.text_area :opp, class: "form-control"
+        .form-group
+          = f.text_area :par, class: "form-control"
+        .form-group
+          = f.text_area :nSw, class: "form-control"
+        .form-group
+          = f.text_area :ttt, class: "form-control"
+        .form-group
+          = f.text_area :P, class: "form-control"
+        .form-group
+          = f.text_area :mSw, class: "form-control"
+        .form-group
+          = f.text_area :Ce, class: "form-control"
+        = f.submit "物語る", class: "btn btn-success"

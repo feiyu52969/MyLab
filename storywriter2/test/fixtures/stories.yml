@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  Sw: MyString
+  eve: MyString
+  mC: MyString
+  t: MyString
+  opp: MyString
+  par: MyString
+  nSw: MyString
+  ttt: MyString
+  P: MyString
+  mSw: MyString
+  Ce: MyString
+  content: MyString
+
+two:
+  user_id: 1
+  Sw: MyString
+  eve: MyString
+  mC: MyString
+  t: MyString
+  opp: MyString
+  par: MyString
+  nSw: MyString
+  ttt: MyString
+  P: MyString
+  mSw: MyString
+  Ce: MyString
+  content: MyString
