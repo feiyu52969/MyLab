@@ -1,0 +1,114 @@
+/*User stick note*/
+.user_sticky_note {
+    background-color: #fff;
+    padding: 4px;
+    border: 2px solid #FE7BB5;
+}
+
+h3.sticky_title {
+  font-size: 22px !important;
+  margin-top: 12px;
+  margin-bottom: 11px;
+}
+
+span.sticky_info_row {
+  display: block;
+  line-height: 23px;
+}
+
+label.row-element {
+  font-weight: bold;
+}
+
+label.row-element.more-detail{
+  color: #ff0000;
+}
+.user_sticky_note a:hover{
+  /*color: #f00;*/
+  text-decoration: underline !important;
+}
+
+.customize-text_editor_desc a {
+  background-color: #FE7BB5;
+  padding: 5px;
+  color: #fff;
+  border-radius: 5px;
+  margin: 5px 0;
+  display: inline-block;
+  transition:all ease 0.3s;
+  -webkit-transition:all ease 0.3s;
+  -moz-transition:all ease 0.3s;
+}
+.customize-text_editor_desc a:hover {
+  background-color: #fff;
+  color: #FE7BB5;
+}
+.customize-text_editor_desc span {
+  background-color: #fff;
+  color: #FE7BB5;
+  padding: 5px;
+  margin: 5px 0;
+  display: inline-block;
+}
+
+.upgrade-pro{
+    background-color: #FE7BB5;
+    color: #FFF !important;
+    font-size: 12px;
+    padding: 5px;
+    line-height: 1;
+    display: block;
+    margin-top: 6px;
+    text-align: center;
+}
+
+.sticky_info_row .button{
+    width: 100%;
+    margin: 2px 0;
+    text-align: center;
+}
+.sticky_info_row a {
+    color: #FE7BB5;
+}
+
+.upgrade-pro{
+  background-color: #FE7BB5;
+  color: #FFF !important;
+  font-size: 12px;
+  padding: 2px;
+  line-height: 1;
+  display: block;
+  margin-top: 6px;
+  text-align: center;
+  width: 90%;
+  margin: 0 auto;
+}
+.upgrade-pro-demo{
+  background-color: #FE7BB5;
+  color: #FFF !important;
+  font-size: 16px;
+  line-height: 1;
+  display: block;
+  margin-top: 6px;
+  text-align: center;
+  padding: 10px;
+  box-shadow: 0 0 5px #fff inset;
+  border-radius: 12px;
+  font-weight: bolder;
+  /*width: 90%;*/
+  margin: 0 auto;
+}
+.upgrade-pro-demo:hover{
+  color: #FE7BB5 !important;
+  background: #fff;
+  box-shadow: 0 0 5px #FE7BB5 inset;  
+}
+.sticky_info_row .button{
+  width: 100%;
+  margin: 2px 0;
+  text-align: center;
+}
+.notice-up{
+  background: #fff;
+  padding: 10px;
+}

@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <title>科学の侵略者(Sci-Fi Invader)</title>
+    <link rel="stylesheet" href="./css/normalize.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./js/jquery.bxslider/jquery.bxslider.css">
+  </head>
+
+  <body>
+    <div id="home"></div>
+    <section class="heading">
+      <h1 class="title">科学の侵略者</h1>
+      <h1 class="title">(Sci-Fi Invader)</h1>
+      <h2 class="subtitle">～不確定なカオスの揺らぎ～</h2>
+      <h2 class="subtitle">(a Search of Uncertainty in Chaotic Fluctuation)</h2>
+    </section>　
+
+    <nav class="nav">
+      <ul>
+        <li class="current">
+          <a href="./index.html">
+            <p>ホームとニュース</p>
+            <p>(Home and News)</p>
+          </a>
+        </li>
+        <li>
+          <a href="./intro/index.html">
+            <p>イントロダクション</p>
+            <p>(Introduction)</p>
+          </a>
+        </li>
+        <li>
+          <a href="./wp">
+            <p>科学に対する考察</p>
+            <p>(My Reviews on Science)</p>
+          </a>
+        </li>
+        <li>
+          <a href="./contact/index.html">
+            <p>コンタクトとリンク</p>
+            <p>(Contact and Links)</p>
+          </a>
+        </li>
+      </ul>
+    </nav>
+
+    <div class="showwindow">
+      <section class="visuals">
+        <ul class="bxslider">
+          <li>
+            <article class="desc">
+              <h1 class="title">ハイスクール・ガール</h1>
+              <p>噓でしょ、噓でしょ。</p>
+              <p>ここから見える景色は、みんな嘘。</p>
+              <p>この景色の中にいる私も、嘘みたいな完璧な見た目をしてたら、</p>
+              <p>それが私にとってはもう現実だ。</p>
+            </article>
+            <img src="./imgs/highschoolgirl.jpg" alt="ハイ・スクールガール">
+          </li>
+          <li>
+            <article class="desc">
+              <h1 class="title">機械仕掛けの天使</h1>
+              <p>蛍光灯でできた天使の輪、ゼンマイ仕掛けの羽ばたく天使の羽、</p>
+              <p>飛び立つ彼女の目に映る未来は、過去か、それとも現在か？</p>
+            </article>
+            <img src="./imgs/angelfromthemachine.jpg" alt="機械仕掛けの天使">
+          </li>
+          <li>
+            <article class="desc">
+              <h1 class="title">サマー・モデル</h1>
+              <p>西暦2063年、夏の新作、登場。</p>
+              <p>Day-Night DreamerのCMテーマコンテスト　解凍系テーマ賞受賞。</p>
+              <p>モノリス。</p>
+            </article>
+            <img src="./imgs/model.jpg" alt="サマー・モデル">
+          </li>
+        </ul>
+      </section>
+
+      <section class="mygames">
+        <ul class="bxslider">
+          <li>
+            <article class="desc">
+              <h1 class="title">作品名：メンデルスのゾーン</h1>
+              <p>ダウンロードは</p> 
+              <p>
+                <a href="http://www.freem.ne.jp/win/game/14150">ここか
+                </a>　<a href="https://freegame-mugen.jp/roleplaying/game_5728.html">ここのサイトから</a>
+              </p>
+              <p>プレイ人数：一人</p>
+              <p>ゲームの始め方：フォルダを展開して、</p>
+              <p>フォルダ内にあるREADME.textを読んで、</p>
+              <p>pythonとpygameをインストールし、</p>
+              <p>mendelsnozone.pyを実行する。</p>
+            </article>
+            <img src="./imgs/mendelsnozone.jpg" alt="メンデルスのゾーン">
+          </li>
+        </ul>
+      </section>
+
+      <section class="news">
+        <h1 class="title">近況報告</h1>
+        <ul class="bxslider">
+          <li>
+            <p class="desc">自作ゲーム「メンデルスのゾーン」をアップしました。</p>
+          </li>
+        </ul>
+      </section>
+    </div>
+      
+    <p class="back-home"><a href="#home">ホームへ戻る(Get back Home)</a></p>
+
+    <footer class="footer">
+      <p class="copyright">Copyright&copy; 2017 Hiroshi Yamanaka All Rights Reserved.</p>
+    </footer>
+
+    <script src="./js/jquery-1.10.1.min.js"></script>
+    <script src="./js/jquery.bxslider/jquery.bxslider.js"></script>
+    <script>
+      $(document).ready(function(){
+        $('.bxslider').bxSlider({
+          auto: true,
+          speed: 1000,
+          pause: 5000
+        });
+      });
+    </script>
+  </body>
+</html>

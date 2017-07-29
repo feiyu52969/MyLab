@@ -1,0 +1,59 @@
+/*
+Theme Name: Bidnis
+Description: Used to style the TinyMCE editor.
+*/
+@import url("style.css");
+body {
+  margin: 20px;
+}
+
+.mce-item-table th,
+.mce-item-table td {
+  border: 1px solid;
+}
+
+a {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.gallery,
+.gallery-item {
+  float: none !important;
+}
+
+.gallery-item {
+  margin: 0 0 16px 0 !important;
+}
+
+.wp-caption-text,
+.gallery-caption {
+  text-align: left;
+  padding: 8px 0 0;
+}
+
+.wp-caption-dd {
+  font-size: .8rem;
+  padding: 8px;
+}
+
+.post-format-quote,
+.post-format-link,
+.post-format-status,
+.post-format-audio {
+  font-weight: bold;
+  font-size: 2em;
+}
+
+.post-format-quote q,
+.post-format-quote blockquote {
+  border: none;
+}
+
+.post-format-link {
+  text-align: center;
+}
+
+.post-format-chat {
+  font-weight: bold;
+}

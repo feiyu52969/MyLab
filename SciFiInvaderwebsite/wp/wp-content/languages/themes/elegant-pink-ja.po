@@ -1,0 +1,507 @@
+# Translation of Themes - Elegant Pink in Japanese
+# This file is distributed under the same license as the Themes - Elegant Pink package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-10 23:28:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Elegant Pink\n"
+
+#. Description of the plugin/theme
+msgid "Elegant Pink is a versatile masonry based, feminine and girly WordPress theme that can be used for building lively and eye-catching websites. The theme can be used to build beautiful blog or magazine related to photography, nature, art and design, lifestyle, food, fashion, babies, kids, wedding or any other creative image centric websites. The responsive design of the theme ensures that your website is mobile friendly and looks great on every device including desktops, laptops, mobiles and tablets. The theme is loaded with features and tools that allows customization of different aspects of the theme. The theme features multiple post formats, custom menu, custom footer, custom slider and customizer options to create a visually appealing website. Infinite Scroll gives an unique loading of the blog posts. The masonry works by placing elements in the optimal position based on the available space, so that your posts are automatically presented in the most visually pleasing and organized way. The theme is SEO friendly and make it easy to find on Google and other search engines. It is loaded with theme options and provides several features to make user-friendly, interactive and visually stunning website.The pinterest style layout makes the theme an ideal option for blogs, portfolios, magazine and other creative websites. Whether you are a fashion blogger or simply want to share your wedding experiences in a beautiful and sophisticated website, Elegant Pink is just perfect for you."
+msgstr "Elegant Pinkは、多用途のメーソンリーをベースにした、フェミニンでガーリーなWordPressで、生き生きとした、魅力的なウェブサイトの構築にご利用いただけます。このテーマは、写真、自然、アート、デザイン、ライフスタイル、グルメ、ファッション、育児、ウェディングに関連したウェブサイトや、その他ビジュアルが中心になったブログや雑誌にぴったりです。インタラクティブなデザインのため、モバイル、デスクトップ、ラップトップ、タブレットなど、どんなデバイスでも美しく表示されるテーマです。また、様々な部分でカスタマイズすることが可能な機能やツールが搭載されており、複数投稿フォーマット、カスタム・メニュー、カスタム・フッター、カスタム・スライダー、カスタマイザ・オプションで、美しいビジュアルのウェブサイトを作成できます。無制限スクロールは、ブログ投稿をユニークな形で読み込むことができ、メーソンリー型のレイアウトでは、利用できるスペースに基づいて、最適な位置にエレメントを配置することで、自動的にあなたの投稿が最も見やすい状態で表示されます。このテーマでは、検索エンジン最適化（SEO）機能を使用しているため、Googleのランキングで上位にランク付けされやすいのも特徴です。テーマ・オプションも複数あり、使いやすい機能が満載であるだけでなく、目を引くデザインのウェブサイトです。Pinterest スタイルのレイアウトは、ブログやポートフォリオ、雑誌やその他のクリエイティブなウェブサイトに最適です。ファッション関連のブログを作成したり、ウェディングを美しく洗練されたウェブサイトに紹介したい場合などにぴったりのテーマ、Elegant Pink です。"
+
+#. Theme Name of the plugin/theme
+msgid "Elegant Pink"
+msgstr "Elegant Pink"
+
+#: inc/extras.php:455
+msgid "Elegant Pink by: Rara Theme"
+msgstr "Elegant Pink by: Rara Theme"
+
+#: inc/customizer.php:508 inc/extras.php:99 inc/widget-social-links.php:67
+#: inc/widget-social-links.php:137
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: comments.php:94
+msgid "Comment"
+msgstr "コメント"
+
+#: comments.php:79
+msgid "Website"
+msgstr "ウェブサイト"
+
+#: comments.php:76
+msgid "Email*"
+msgstr "メール*"
+
+#: comments.php:73
+msgid "Name*"
+msgstr "名前*"
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr "ホームページ"
+
+#: template-home.php:55
+msgid "Newer Entries"
+msgstr "新しい記事"
+
+#: template-home.php:54
+msgid "Older Entries"
+msgstr "過去の記事"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:35 template-parts/content.php:38
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "続きを読む %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:35 template-parts/content-single.php:40
+#: template-parts/content.php:44
+msgid "Pages:"
+msgstr "ページ:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しの項目が見つかりません。検索機能をお試しください。"
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "見つかりません"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: inc/widget-social-links.php:103 inc/widget-social-links.php:109
+#: inc/widget-social-links.php:115 inc/widget-social-links.php:121
+#: inc/widget-social-links.php:127 inc/widget-social-links.php:133
+#: inc/widget-social-links.php:139
+msgid "Leave blank if you do not want to show."
+msgstr "表示したくない場合は、空欄にしてください。"
+
+#: inc/widget-social-links.php:61
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/widget-social-links.php:40 inc/widget-social-links.php:84
+#: inc/widget-social-links.php:157
+msgid "Social"
+msgstr "ソーシャル"
+
+#: inc/widget-social-links.php:26
+msgid "A Social Links Widget"
+msgstr "ソーシャルリンクウィジェット"
+
+#: inc/widget-social-links.php:25
+msgid "RARA: Social Links"
+msgstr "RARA: ソーシャルリンク"
+
+#: inc/widget-recent-post.php:40 inc/widget-recent-post.php:91
+#: inc/widget-recent-post.php:134
+msgid "Recent Posts"
+msgstr "最近の記事"
+
+#: inc/widget-recent-post.php:26
+msgid "A Recent Post Widget"
+msgstr "最新記事ウィジェット"
+
+#: inc/widget-recent-post.php:25
+msgid "RARA: Recent Post"
+msgstr "RARA: 最新記事"
+
+#: inc/widget-popular-post.php:116 inc/widget-recent-post.php:115
+msgid "Show Post Date"
+msgstr "投稿日を表示する"
+
+#: inc/widget-popular-post.php:105 inc/widget-recent-post.php:104
+msgid "Number of Posts"
+msgstr "投稿数"
+
+#: inc/widget-popular-post.php:100 inc/widget-recent-post.php:99
+#: inc/widget-social-links.php:96
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/widget-popular-post.php:40 inc/widget-popular-post.php:92
+#: inc/widget-popular-post.php:134
+msgid "Popular Posts"
+msgstr "人気の投稿"
+
+#: inc/widget-popular-post.php:26
+msgid "A Popular Post Widget"
+msgstr "人気の投稿ウィジェット"
+
+#: inc/widget-popular-post.php:25
+msgid "RARA: Popular Post"
+msgstr "RARA: 人気の投稿"
+
+#: inc/widget-featured-post.php:122 inc/widget-popular-post.php:111
+#: inc/widget-recent-post.php:110
+msgid "Show Post Thumbnail"
+msgstr "投稿サムネイルを表示する"
+
+#: inc/widget-featured-post.php:116
+msgid "Excerpt Character"
+msgstr "抜粋文字"
+
+#: inc/widget-featured-post.php:111
+msgid "Read More Text"
+msgstr "もっと読む"
+
+#: inc/widget-featured-post.php:101
+msgid "Posts"
+msgstr "投稿"
+
+#: inc/widget-featured-post.php:82
+msgid "--Choose--"
+msgstr "--選択--"
+
+#: inc/widget-featured-post.php:26
+msgid "A Featured Post Widget"
+msgstr "特集記事ウィジェット"
+
+#: inc/widget-featured-post.php:25
+msgid "RARA: Featured Post"
+msgstr "RARA: 特集記事"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:59
+msgid "Edit %s"
+msgstr "%sの編集"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:25 inc/template-tags.php:30 inc/template-tags.php:44
+msgid ", "
+msgstr "・"
+
+#: inc/metabox.php:41
+msgid "Choose Sidebar Template"
+msgstr "サイドバーテンプレートを選択"
+
+#: inc/metabox.php:29
+msgid "No sidebar"
+msgstr "サイドバーなし"
+
+#: inc/metabox.php:24
+msgid "Right sidebar (default)"
+msgstr "右サイドバー (デフォルト)"
+
+#: inc/metabox.php:14
+msgid "Sidebar Layout"
+msgstr "サイドバーのレイアウト"
+
+#: inc/extras.php:457
+msgid "https://wordpress.org/"
+msgstr "https://ja.wordpress.org/"
+
+#: inc/extras.php:457
+msgid "Powered by: %s"
+msgstr "Powered by: %s"
+
+#: inc/extras.php:452
+msgid "Copyright &copy; "
+msgstr "Copyright &copy; "
+
+#. translators: 1: date, 2: time
+#: inc/extras.php:370 inc/template-tags.php:18 inc/template-tags.php:19
+#: inc/template-tags.php:27 inc/template-tags.php:32 inc/template-tags.php:46
+#: inc/widget-popular-post.php:69 inc/widget-recent-post.php:68
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/extras.php:361
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは承認待ちです。"
+
+#: inc/extras.php:358
+msgid "<b class=\"fn\">%s</b> <span class=\"says\">says:</span>"
+msgstr "<b class=\"fn\">%s</b> <span class=\"says\">のコメント:</span>"
+
+#: inc/customizer.php:571
+msgid "Put your custom CSS"
+msgstr "あなたのカスタム CSS を載せる"
+
+#: inc/customizer.php:569
+msgid "Custom Css"
+msgstr "カスタム CSS"
+
+#: inc/customizer.php:551
+msgid "Custom CSS Settings"
+msgstr "カスタム CSS 設定"
+
+#: inc/customizer.php:541
+msgid "Load More"
+msgstr "さらに読み込む"
+
+#: inc/customizer.php:540
+msgid "Default"
+msgstr "デフォルト"
+
+#: inc/customizer.php:536
+msgid "Pagination Type"
+msgstr "ページ送りのタイプ"
+
+#: inc/customizer.php:519
+msgid "Pagination Settings"
+msgstr "ページネーション設定"
+
+#: inc/customizer.php:490 inc/extras.php:97 inc/widget-social-links.php:65
+#: inc/widget-social-links.php:131
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/customizer.php:472 inc/extras.php:95 inc/widget-social-links.php:63
+#: inc/widget-social-links.php:125
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/customizer.php:454 inc/extras.php:93 inc/widget-social-links.php:119
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/customizer.php:436 inc/extras.php:91 inc/widget-social-links.php:59
+#: inc/widget-social-links.php:113
+msgid "Google Plus"
+msgstr "Google+"
+
+#: inc/customizer.php:418 inc/extras.php:89 inc/widget-social-links.php:57
+#: inc/widget-social-links.php:107
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/customizer.php:400 inc/extras.php:87 inc/widget-social-links.php:55
+#: inc/widget-social-links.php:101
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/customizer.php:382
+msgid "Enable Social Links"
+msgstr "ソーシャルリンクを有効にする"
+
+#: inc/customizer.php:364
+msgid "Leave blank if you do not want to show the social link."
+msgstr "ソーシャルリンクを表示したくない場合は、空欄にしてください。"
+
+#: inc/customizer.php:363
+msgid "Social Settings"
+msgstr "ソーシャル設定"
+
+#: inc/customizer.php:350
+msgid "Slider Post Three"
+msgstr "スライダー投稿 3"
+
+#: inc/customizer.php:330
+msgid "Slider Post Two"
+msgstr "スライダー投稿 2"
+
+#: inc/customizer.php:310
+msgid "Slider Post One"
+msgstr "スライダー投稿 1"
+
+#: inc/customizer.php:290
+msgid "Choose Slider Category"
+msgstr "スライダー・カテゴリーを選択"
+
+#: inc/customizer.php:273
+msgid "Single Posts"
+msgstr "個別投稿"
+
+#: inc/customizer.php:272
+msgid "Category Posts"
+msgstr "カテゴリー投稿"
+
+#: inc/customizer.php:268
+msgid "Choose Slider Type"
+msgstr "スライダータイプを選択"
+
+#: inc/customizer.php:250
+msgid "Readmore Text"
+msgstr "もっと読む"
+
+#: inc/customizer.php:242 inc/extras.php:217 inc/widget-featured-post.php:40
+#: inc/widget-featured-post.php:94 inc/widget-featured-post.php:140
+#: template-parts/content.php:33
+msgid "Read More"
+msgstr "もっと見る"
+
+#: inc/customizer.php:232
+msgid "Character Count"
+msgstr "文字カウント"
+
+#: inc/customizer.php:214
+msgid "Slider Pause"
+msgstr "スライダー停止"
+
+#: inc/customizer.php:196
+msgid "Slider Speed"
+msgstr "スライダー速度"
+
+#: inc/customizer.php:179
+msgid "Slide"
+msgstr "スライド"
+
+#: inc/customizer.php:178
+msgid "Fade"
+msgstr "フェード"
+
+#: inc/customizer.php:174
+msgid "Choose Slider Transition"
+msgstr "スライダー移行を選択"
+
+#: inc/customizer.php:156
+msgid "Enable Slider Caption"
+msgstr "スライダー・キャプションを有効にする"
+
+#: inc/customizer.php:138
+msgid "Enable Slider Control"
+msgstr "スライダー・コントロールを有効にする"
+
+#: inc/customizer.php:120
+msgid "Enable Slider Loop"
+msgstr "スライダー・ループを有効にする"
+
+#: inc/customizer.php:102
+msgid "Enable Slider Auto Transition"
+msgstr "スライダーの自動移行を有効にする"
+
+#: inc/customizer.php:84
+msgid "Enable Home Page Slider"
+msgstr "ホームページ・スライダーを有効にする"
+
+#: inc/customizer.php:66
+msgid "Slider Settings"
+msgstr "スライダー設定"
+
+#: inc/customizer.php:47
+msgid "Default section provided by WordPress customizer."
+msgstr "WordPress カスタマイザ－が提供する既定セクション"
+
+#: inc/customizer.php:46
+msgid "Default Settings"
+msgstr "デフォルト設定"
+
+#: inc/customizer.php:34
+msgid "Choose Category"
+msgstr "カテゴリーを選択"
+
+#: inc/customizer.php:18
+msgid "Choose Post"
+msgstr "投稿を選択"
+
+#: header.php:55
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: functions.php:246
+msgid "No more posts."
+msgstr "投稿はありません。"
+
+#: functions.php:245
+msgid "Loading..."
+msgstr "読み込んでいます..."
+
+#: functions.php:244
+msgid "Load More Posts"
+msgstr "さらに投稿を読み込む"
+
+#: functions.php:163
+msgid "Footer Three"
+msgstr "フッター3"
+
+#: functions.php:153
+msgid "Footer Two"
+msgstr "フッター2"
+
+#: functions.php:143
+msgid "Footer One"
+msgstr "フッター1"
+
+#: functions.php:133
+msgid "Right Sidebar"
+msgstr "右サイドバー"
+
+#: functions.php:47
+msgid "Primary"
+msgstr "メイン"
+
+#: comments.php:105
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "<a href=\"%1$s\">%2$s</a>としてログインしています。<a href=\"%3$s\" title=\"Log out of this account\">ログアウトしますか?</a>"
+
+#: comments.php:99
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "コメントを投稿するには、<a href=\"%s\">ログイン</a>が必要です。"
+
+#: comments.php:91
+msgid "POST COMMENT"
+msgstr "コメントを投稿する"
+
+#: comments.php:90
+msgid "Cancel Reply"
+msgstr "返信をキャンセル"
+
+#: comments.php:89
+msgid "Leave a Reply to %s"
+msgstr "%s へ返信する"
+
+#: comments.php:88
+msgid "Leave a Reply"
+msgstr "返信を残す"
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr "コメントの受付は終了しました。"
+
+#: comments.php:49
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: comments.php:48
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: comments.php:29
+msgid "Comments"
+msgstr "コメント"
+
+#: 404.php:16
+msgid "Sorry but the page you are looking for cannot be found. Take a moment and do a search below or start from our %s."
+msgstr "お探しのページは見つかりません。以下で検索するか、こちらをご覧ください:%s"
+
+#: 404.php:15
+msgid "The requested page can&rsquo;t be found."
+msgstr "リクエストされたページは見つかりません。"
+
+#: 404.php:14
+msgid "404!"
+msgstr "404!"
+
+#. Author URI of the plugin/theme
+msgid "http://raratheme.com/"
+msgstr "http://raratheme.com/"
+
+#. Theme URI of the plugin/theme
+msgid "http://raratheme.com/wordpress-themes/elegant-pink/"
+msgstr "http://raratheme.com/wordpress-themes/elegant-pink/"
+
+#. Author of the plugin/theme
+msgid "Rara Theme"
+msgstr "Rara Theme"

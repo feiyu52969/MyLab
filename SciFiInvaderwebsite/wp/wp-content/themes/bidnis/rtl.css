@@ -1,0 +1,267 @@
+/*
+Theme Name: Bidnis
+Description: Adds support for languages written in a Right To Left (RTL) direction.
+
+See http://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+body {
+  direction: rtl;
+  unicode-bidi: rembed;
+}
+
+blockquote,
+q {
+  border-left: 0;
+  border-right: 3px solid;
+  padding-left: 0;
+  padding-right: .5rem;
+}
+
+ul,
+ol {
+  padding-left: 0;
+  padding-right: 30px;
+}
+
+ul ul,
+ul ol,
+ol ul,
+ol ol {
+  padding-left: 0;
+  padding-right: 20px;
+}
+
+.has-sidebar .site-content {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: reverse;
+  -webkit-flex-direction: row-reverse;
+     -moz-box-orient: horizontal;
+     -moz-box-direction: reverse;
+      -ms-flex-direction: row-reverse;
+          flex-direction: row-reverse;
+}
+
+.nav-previous ~ .nav-next {
+  margin-left: 0;
+  margin-right: 1rem;
+}
+
+.search-form input[type="search"] {
+  border-right: 1px solid;
+  border-left: 0;
+}
+
+.bidnis-phone,
+.bidnis-email {
+  margin-right: 0;
+  margin-left: 1rem;
+}
+
+.bidnis-phone:before,
+.bidnis-email:before {
+  margin-right: 0;
+}
+
+.bidnis-phone:after,
+.bidnis-email:after {
+  font-family: FontAwesome;
+  margin-left: .5rem;
+}
+
+.bidnis-phone:before {
+  content: '';
+}
+
+.bidnis-phone:after {
+  content: '\f095';
+}
+
+.bidnis-email:before {
+  content: '';
+}
+
+.bidnis-email:after {
+  content: '\f0e0';
+}
+
+.bidnis-social-media-links a:not(:first-child) {
+  margin-left: 0;
+  margin-right: .5rem;
+}
+
+@media (max-width: 640px) {
+  .bidnis-social-media-links a {
+    margin-left: 0 !important;
+    margin-right: 1rem !important;
+  }
+}
+
+.header-menu > .menu-item {
+  margin-right: 0;
+  margin-left: 10px;
+}
+
+.header-menu .sub-menu {
+  right: auto;
+  left: -1;
+}
+
+.header-menu .sub-menu .sub-menu {
+  left: auto;
+  right: 100%;
+}
+
+@media (max-width: 640px) {
+  .js .header-menu-container {
+    left: auto;
+    right: 0;
+  }
+  .header-menu .sub-menu {
+    left: auto;
+    padding-left: 0;
+    padding-right: 1rem;
+  }
+  .header-menu .sub-menu .sub-menu {
+    right: auto;
+  }
+}
+
+.sticky .archive-entry-header h3:before {
+  content: "";
+  margin: 0;
+}
+
+.sticky .archive-entry-header h3:after {
+  font-family: FontAwesome;
+  content: '\f08d';
+  margin-left: .5rem;
+}
+
+.single .content-title:before,
+.archive .content-title:before,
+.error404 .content-title:before {
+  content: '';
+}
+
+.sticky .archive-entry-header h3:before,
+.single:not(.single-format-standard) .content-title:before,
+.archive .content-title:before {
+  margin-right: 0;
+}
+
+.sticky .archive-entry-header h3:after,
+.single:not(.single-format-standard) .content-title:after,
+.archive .content-title:after {
+  margin-left: .5rem;
+}
+
+.archive .content-title:after {
+  content: '\f114';
+}
+
+.tag .content-title:after {
+  content: '\f02b';
+}
+
+.author .content-title:after {
+  content: '\f007';
+}
+
+.date .content-title:after {
+  content: '\f073';
+}
+
+.search .content-title:after {
+  content: '\f002';
+}
+
+.error404 .content-title:after {
+  content: '\f15b';
+}
+
+/* post format prefix icons*/
+.attachment .content-title:after,
+.single-format-image .content-title:after,
+.single-format-gallery .content-title:after,
+.term-post-format-image .content-title:after,
+.term-post-format-gallery .content-title:after {
+  content: '\f03e';
+}
+
+.single-format-audio .content-title:after,
+.term-post-format-audio .content-title:after {
+  content: '\f001';
+}
+
+.single-format-video .content-title:after,
+.term-post-format-video .content-title:after {
+  content: '\f03d';
+}
+
+.single-format-status .content-title:after,
+.term-post-format-status .content-title:after {
+  content: '\f12a';
+}
+
+.single-format-link .content-title:after,
+.term-post-format-link .content-title:after {
+  content: '\f0c1';
+}
+
+.single-format-quote .content-title:after,
+.term-post-format-quote .content-title:after {
+  content: '\f10e';
+}
+
+.single-format-chat .content-title:after,
+.term-post-format-chat .content-title:after {
+  content: '\f086';
+}
+
+.entry-meta > span {
+  margin-right: 0;
+  margin-left: 1rem;
+}
+
+.author-bio .avatar {
+  margin: 0 0 0 .5rem;
+}
+
+.comment-author .avatar {
+  float: right;
+  margin-right: 0;
+  margin-left: .5rem;
+}
+
+.widget-container ul > li {
+  margin-left: 0;
+  margin-right: -24px;
+}
+
+.widget-container ul > li li {
+  margin-left: 0;
+  margin-right: .25rem;
+}
+
+.footer-menu .menu-item:not(:last-child) {
+  padding-right: 0;
+  margin-right: 0;
+  border-right: 0;
+  padding-left: .5rem;
+  margin-left: .5rem;
+  border-left: 1px solid;
+}
+
+.footer-information span:not(:last-child) {
+  padding-right: 0;
+  margin-right: 0;
+  border-right: 0;
+  padding-left: .5rem;
+  margin-left: .5rem;
+  border-left: 1px solid;
+}
+
+.scroll-to-top {
+  right: auto;
+  left: 20px;
+}

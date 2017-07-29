@@ -1,0 +1,371 @@
+# Translation of Themes - Bidnis in Japanese
+# This file is distributed under the same license as the Themes - Bidnis package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-21 01:11:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Bidnis\n"
+
+#. Description of the plugin/theme
+msgid "Bidnis as the name suggests ia a theme designed for business, consultant and corporate related websites."
+msgstr "Bidnis は、ビジネス、コンサルタント、および企業関連の Web サイト用に設計されたテーマです。"
+
+#. Theme Name of the plugin/theme
+msgid "Bidnis"
+msgstr "Bidnis"
+
+#: template-parts/loop.php:73
+msgid "Next"
+msgstr "次へ"
+
+#: template-parts/loop.php:72
+msgid "Back"
+msgstr "戻る"
+
+#: template-parts/loop.php:66
+msgid "Next page"
+msgstr "次ページ"
+
+#: template-parts/loop.php:65
+msgid "Previous page"
+msgstr "前ページ"
+
+#: template-parts/loop.php:51
+msgid "Read more"
+msgstr "続きを読む"
+
+#: template-parts/loop.php:41
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "<span class=\"screen-reader-text\">\"%s\"の</span>続きを読む"
+
+#: template-parts/loop.php:22
+msgid "Untitled post"
+msgstr "無題の投稿"
+
+#: template-parts/header_image.php:18
+msgid "Header Image"
+msgstr "ヘッダー画像"
+
+#: template-parts/entry_meta.php:110
+msgid "Edit"
+msgstr "編集する"
+
+#: template-parts/entry_meta.php:91
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "フォーマット"
+
+#: template-parts/content_header.php:25
+msgid "Untitled Post"
+msgstr "無題の投稿"
+
+#: template-parts/content_header.php:22
+msgid "404 Not Found"
+msgstr "404 -見つかりません"
+
+#: template-parts/content_header.php:19
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: template-parts/content.php:51
+msgid "Previous post:"
+msgstr "前の投稿:"
+
+#: template-parts/content.php:48
+msgid "Next post:"
+msgstr "次の投稿:"
+
+#: template-parts/content.php:32 template-parts/loop.php:67
+msgid "Page"
+msgstr "ページ"
+
+#: template-parts/content.php:28
+msgid "Pages:"
+msgstr "ページ:"
+
+#: template-parts/content-none.php:24
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツは見つかりませんでした。検索をお試しください。"
+
+#: template-parts/content-none.php:19
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードをお試しください。"
+
+#: template-parts/content-none.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: template-parts/content-none.php:10
+msgid "Nothing Found"
+msgstr "見つかりません"
+
+#: template-parts/author_bio.php:16
+msgid "Author:"
+msgstr "作成者:"
+
+#: searchform.php:15
+msgctxt "submit button"
+msgid "Search"
+msgstr "検索"
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "検索 &hellip;"
+
+#: searchform.php:12 searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr "検索:"
+
+#: inc/customize.php:409
+msgid "Scroll to top icon in footer"
+msgstr "フッター内の、ページ上部へのスクロールアイコン"
+
+#: inc/customize.php:397
+msgid "Advertise Theme"
+msgstr "テーマを宣伝する"
+
+#: inc/customize.php:385
+msgid "Show Current Year"
+msgstr "現在の年を表示"
+
+#: inc/customize.php:373
+msgid "Show Copyright Icon"
+msgstr "著作権アイコンを表示"
+
+#: inc/customize.php:361
+msgid "Footer text"
+msgstr "フッターテキスト"
+
+#: inc/customize.php:350
+msgid "Footer"
+msgstr "フッター"
+
+#: inc/customize.php:327
+msgid "E-mail"
+msgstr "メール"
+
+#: inc/customize.php:315
+msgid "Phone number"
+msgstr "電話番号"
+
+#: inc/customize.php:303
+msgid "RSS Link"
+msgstr "RSS リンク"
+
+#: inc/customize.php:292
+msgid "Contact and Social Media"
+msgstr "連絡先とソーシャルメディア"
+
+#: inc/customize.php:284
+msgid "Button URL (link)"
+msgstr "ボタン URL (リンク)"
+
+#: inc/customize.php:272
+msgid "Button text"
+msgstr "ボタンテキスト"
+
+#: inc/customize.php:260
+msgid "Text"
+msgstr "テキスト"
+
+#: inc/customize.php:248
+msgid "Display page numbers on index pages"
+msgstr "トップページに電話番号を表示"
+
+#: inc/customize.php:236
+msgid "Display read more button"
+msgstr "続きを読むボタンを表示"
+
+#: inc/customize.php:224
+msgid "Display thumbnails on content pages"
+msgstr "個別ページにサムネイルを表示"
+
+#: inc/customize.php:212
+msgid "Display thumbnails on index pages"
+msgstr "トップページにサムネイルを表示"
+
+#: inc/customize.php:200
+msgid "Display full content of posts on index pages"
+msgstr "トップページで投稿内容をすべてて表示"
+
+#: inc/customize.php:188
+msgid "Display breadcrumbs"
+msgstr "パンくずリストを表示"
+
+#: inc/customize.php:177
+msgid "Theme options"
+msgstr "テーマ設定"
+
+#: inc/customize.php:170
+msgid "Display Author Bio"
+msgstr "投稿者プロフィールを表示"
+
+#: inc/customize.php:158
+msgid "Display Tags"
+msgstr "タグを表示"
+
+#: inc/customize.php:146
+msgid "Display Categories"
+msgstr "カテゴリーの表示"
+
+#: inc/customize.php:134
+msgid "Display Post Format"
+msgstr "投稿フォーマットを表示"
+
+#: inc/customize.php:122
+msgid "Display comment count"
+msgstr "コメント数を表示"
+
+#: inc/customize.php:110
+msgid "Display date posted"
+msgstr "投稿日を表示"
+
+#: inc/customize.php:98
+msgid "Display author"
+msgstr "投稿者を表示"
+
+#: inc/customize.php:87
+msgid "Entry Metadata"
+msgstr "投稿のメタデータ"
+
+#: inc/customize.php:80
+msgid "Link Color"
+msgstr "リンク色"
+
+#: inc/customize.php:68
+msgid "Text Color"
+msgstr "文字色"
+
+#: inc/customize.php:56
+msgid "Header text color"
+msgstr "ヘッダーテキストの色"
+
+#: inc/customize.php:44
+msgid "Color scheme"
+msgstr "配色"
+
+#: inc/customize.php:32
+msgid "Display Tagline"
+msgstr "キャッチフレーズを表示"
+
+#: inc/customize.php:20
+msgid "Display Site Title"
+msgstr "サイトのタイトルを表示"
+
+#: image.php:30 template-parts/content.php:42
+msgid "Next Image"
+msgstr "次の画像"
+
+#: image.php:29 template-parts/content.php:41
+msgid "Previous Image"
+msgstr "前の画像"
+
+#: functions.php:176
+msgid "Footer Four"
+msgstr "フッター4"
+
+#: functions.php:166
+msgid "Footer Three"
+msgstr "フッター3"
+
+#: functions.php:156
+msgid "Footer Two"
+msgstr "フッター2"
+
+#: functions.php:146
+msgid "Footer One"
+msgstr "フッター1"
+
+#: functions.php:138 functions.php:148 functions.php:158 functions.php:168
+#: functions.php:178
+msgid "Widget area in the footer"
+msgstr "フッター内のウィジェットエリア"
+
+#: functions.php:136
+msgid "Footer Top"
+msgstr "フッタートップ"
+
+#: functions.php:128
+msgid "Widget area at the right side of the content"
+msgstr "コンテンツ右側のウィジェットエリア"
+
+#: functions.php:126
+msgid "Right Sidebar"
+msgstr "右サイドバー"
+
+#: functions.php:118
+msgid "Widget area at the left side of the content"
+msgstr "コンテンツ左側のウィジェットエリア"
+
+#: functions.php:116
+msgid "Left Sidebar"
+msgstr "左サイドバー"
+
+#: functions.php:108
+msgid "Widget area above the content"
+msgstr "コンテンツ下にあるウィジェットエリア"
+
+#: functions.php:106
+msgid "Above content"
+msgstr "コンテンツの上"
+
+#: functions.php:93
+msgid "Footer Menu"
+msgstr "フッターメニュー"
+
+#: functions.php:92
+msgid "Header Menu"
+msgstr "ヘッダーメニュー"
+
+#: functions.php:71
+msgctxt "Laptop"
+msgid "laptop"
+msgstr "ラップトップ"
+
+#: footer.php:34
+msgid "Theme: <a href=\"%2$s\">%1$s</a>"
+msgstr "Theme: <a href=\"%2$s\">%1$s</a>"
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr "コメントは停止中です。"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:26
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; への %1$s 件のフィードバック"
+
+#. translators: %s: post title
+#: comments.php:22
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo; への 1 件のフィードバック"
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location."
+msgstr "何も見つかりませんでした。"
+
+#: 404.php:19
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "おっと、失礼しました。"
+
+#. Author URI of the plugin/theme
+msgid "http://knifftech.net"
+msgstr "http://knifftech.net"
+
+#. Author of the plugin/theme
+msgid "Kniffen Technologies"
+msgstr "Kniffen Technologies"
+
+#. Theme URI of the plugin/theme
+msgid "http://knifftech.net/themes/bidnis"
+msgstr "http://knifftech.net/themes/bidnis"

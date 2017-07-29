@@ -1,0 +1,354 @@
+# Copyright (C) 2016 Kniffen Technologies <knifftech@gmail.com>
+# This file is distributed under the same license as the bidnis package.
+msgid ""
+msgstr ""
+"Project-Id-Version: bidnis\n"
+"Report-Msgid-Bugs-To: http://knifftech.net\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kniffen <knifftech@gmail.com>\n"
+"Language-Team: Kniffen Technologies <knifftech@gmail.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+#: 404.php:19
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: comments.php:22
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:26
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:34
+msgid "Theme: <a href=\"%2$s\">%1$s</a>"
+msgstr ""
+
+#: functions.php:71
+msgctxt "Laptop"
+msgid "laptop"
+msgstr ""
+
+#: functions.php:92
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:93
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:106
+msgid "Above content"
+msgstr ""
+
+#: functions.php:108
+msgid "Widget area above the content"
+msgstr ""
+
+#: functions.php:116
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:118
+msgid "Widget area at the left side of the content"
+msgstr ""
+
+#: functions.php:126
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:128
+msgid "Widget area at the right side of the content"
+msgstr ""
+
+#: functions.php:136
+msgid "Footer Top"
+msgstr ""
+
+#: functions.php:138, functions.php:148, functions.php:158, functions.php:168, functions.php:178
+msgid "Widget area in the footer"
+msgstr ""
+
+#: functions.php:146
+msgid "Footer One"
+msgstr ""
+
+#: functions.php:156
+msgid "Footer Two"
+msgstr ""
+
+#: functions.php:166
+msgid "Footer Three"
+msgstr ""
+
+#: functions.php:176
+msgid "Footer Four"
+msgstr ""
+
+#: image.php:29, template-parts/content.php:41
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:30, template-parts/content.php:42
+msgid "Next Image"
+msgstr ""
+
+#: inc/customize.php:20
+msgid "Display Site Title"
+msgstr ""
+
+#: inc/customize.php:32
+msgid "Display Tagline"
+msgstr ""
+
+#: inc/customize.php:44
+msgid "Color scheme"
+msgstr ""
+
+#: inc/customize.php:56
+msgid "Header text color"
+msgstr ""
+
+#: inc/customize.php:68
+msgid "Text Color"
+msgstr ""
+
+#: inc/customize.php:80
+msgid "Link Color"
+msgstr ""
+
+#: inc/customize.php:87
+msgid "Entry Metadata"
+msgstr ""
+
+#: inc/customize.php:98
+msgid "Display author"
+msgstr ""
+
+#: inc/customize.php:110
+msgid "Display date posted"
+msgstr ""
+
+#: inc/customize.php:122
+msgid "Display comment count"
+msgstr ""
+
+#: inc/customize.php:134
+msgid "Display Post Format"
+msgstr ""
+
+#: inc/customize.php:146
+msgid "Display Categories"
+msgstr ""
+
+#: inc/customize.php:158
+msgid "Display Tags"
+msgstr ""
+
+#: inc/customize.php:170
+msgid "Display Author Bio"
+msgstr ""
+
+#: inc/customize.php:177
+msgid "Theme options"
+msgstr ""
+
+#: inc/customize.php:188
+msgid "Display breadcrumbs"
+msgstr ""
+
+#: inc/customize.php:200
+msgid "Display full content of posts on index pages"
+msgstr ""
+
+#: inc/customize.php:212
+msgid "Display thumbnails on index pages"
+msgstr ""
+
+#: inc/customize.php:224
+msgid "Display thumbnails on content pages"
+msgstr ""
+
+#: inc/customize.php:236
+msgid "Display read more button"
+msgstr ""
+
+#: inc/customize.php:248
+msgid "Display page numbers on index pages"
+msgstr ""
+
+#: inc/customize.php:260
+msgid "Text"
+msgstr ""
+
+#: inc/customize.php:272
+msgid "Button text"
+msgstr ""
+
+#: inc/customize.php:284
+msgid "Button URL (link)"
+msgstr ""
+
+#: inc/customize.php:292
+msgid "Contact and Social Media"
+msgstr ""
+
+#: inc/customize.php:303
+msgid "RSS Link"
+msgstr ""
+
+#: inc/customize.php:315
+msgid "Phone number"
+msgstr ""
+
+#: inc/customize.php:327
+msgid "E-mail"
+msgstr ""
+
+#: inc/customize.php:350
+msgid "Footer"
+msgstr ""
+
+#: inc/customize.php:361
+msgid "Footer text"
+msgstr ""
+
+#: inc/customize.php:373
+msgid "Show Copyright Icon"
+msgstr ""
+
+#: inc/customize.php:385
+msgid "Show Current Year"
+msgstr ""
+
+#: inc/customize.php:397
+msgid "Advertise Theme"
+msgstr ""
+
+#: inc/customize.php:409
+msgid "Scroll to top icon in footer"
+msgstr ""
+
+#: searchform.php:12, searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:15
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: template-parts/author_bio.php:16
+msgid "Author:"
+msgstr ""
+
+#: template-parts/content_header.php:19
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content_header.php:22
+msgid "404 Not Found"
+msgstr ""
+
+#: template-parts/content_header.php:25
+msgid "Untitled Post"
+msgstr ""
+
+#: template-parts/content-none.php:10
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:19
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content.php:28
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:32, template-parts/loop.php:67
+msgid "Page"
+msgstr ""
+
+#: template-parts/content.php:48
+msgid "Next post:"
+msgstr ""
+
+#: template-parts/content.php:51
+msgid "Previous post:"
+msgstr ""
+
+#: template-parts/entry_meta.php:91
+msgctxt "Used before post format."
+msgid "Format"
+msgstr ""
+
+#: template-parts/entry_meta.php:110
+msgid "Edit"
+msgstr ""
+
+#: template-parts/header_image.php:18
+msgid "Header Image"
+msgstr ""
+
+#: template-parts/loop.php:22
+msgid "Untitled post"
+msgstr ""
+
+#: template-parts/loop.php:41
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/loop.php:51
+msgid "Read more"
+msgstr ""
+
+#: template-parts/loop.php:65
+msgid "Previous page"
+msgstr ""
+
+#: template-parts/loop.php:66
+msgid "Next page"
+msgstr ""
+
+#: template-parts/loop.php:72
+msgid "Back"
+msgstr ""
+
+#: template-parts/loop.php:73
+msgid "Next"
+msgstr ""
