@@ -1,13 +1,15 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual C++ Express 2008
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BakudanBitoWithImprovedSequence", "BakudanBitoWithImprovedSequence\BakudanBitoWithImprovedSequence.vcproj", "{F3A114D9-AC63-4FA4-98D5-721036DDDACC}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BakudanBitoWithImprovedSequence", "BakudanBitoWithImprovedSequence\BakudanBitoWithImprovedSequence.vcxproj", "{F3A114D9-AC63-4FA4-98D5-721036DDDACC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Polymorphism", "Polymorphism\Polymorphism.vcproj", "{658AA4C9-BB54-4CCE-AA60-3A6EC6F65199}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Polymorphism", "Polymorphism\Polymorphism.vcxproj", "{658AA4C9-BB54-4CCE-AA60-3A6EC6F65199}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BakudanBitoWithImprovedSequence2", "BakudanBitoWithImprovedSequence2\BakudanBitoWithImprovedSequence2.vcproj", "{539A2576-4E1C-4D0F-B06C-616353A3E2A9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BakudanBitoWithImprovedSequence2", "BakudanBitoWithImprovedSequence2\BakudanBitoWithImprovedSequence2.vcxproj", "{539A2576-4E1C-4D0F-B06C-616353A3E2A9}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BakudanBitoWithImprovedSequence3", "BakudanBitoWithImprovedSequence3\BakudanBitoWithImprovedSequence3.vcproj", "{BE1A8C60-12CB-45AF-9031-49DD0C9E0A26}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BakudanBitoWithImprovedSequence3", "BakudanBitoWithImprovedSequence3\BakudanBitoWithImprovedSequence3.vcxproj", "{BE1A8C60-12CB-45AF-9031-49DD0C9E0A26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

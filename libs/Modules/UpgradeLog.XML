@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Modules">
+</Property><Property Name="ソリューション ファイル" Value="D:\Hirayama-Common\doc\book\src2008\GameLibs\Modules\Modules.sln">
+</Property><Property Name="Date" Value="2008年8月28日">
+</Property><Property Name="Time" Value="17:25">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Modules.sln" Description="ファイルは正常に D:\Hirayama-Common\doc\book\src2008\GameLibs\Modules\Modules.sln.old としてバックアップされました。">
+</Event><Event ErrorLevel="1" Project="FileIO" Source="FileIO\FileIO.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="FileIO" Source="FileIO\FileIO.vcproj" Description="プロジェクト ファイルは正常に 'D:\Hirayama-Common\doc\book\src2008\GameLibs\Modules\FileIO\FileIO.vcproj.8.00.old' としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="FileIO" Source="FileIO\FileIO.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="FileIO" Source="FileIO\FileIO.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Graphics" Source="Graphics\Graphics.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="Graphics" Source="Graphics\Graphics.vcproj" Description="プロジェクト ファイルは正常に 'D:\Hirayama-Common\doc\book\src2008\GameLibs\Modules\Graphics\Graphics.vcproj.8.00.old' としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="Graphics" Source="Graphics\Graphics.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="Graphics" Source="Graphics\Graphics.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Input" Source="Input\Input.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="Input" Source="Input\Input.vcproj" Description="プロジェクト ファイルは正常に 'D:\Hirayama-Common\doc\book\src2008\GameLibs\Modules\Input\Input.vcproj.8.00.old' としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="Input" Source="Input\Input.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="Input" Source="Input\Input.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Sound" Source="Sound\Sound.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="Sound" Source="Sound\Sound.vcproj" Description="プロジェクト ファイルは正常に 'D:\Hirayama-Common\doc\book\src2008\GameLibs\Modules\Sound\Sound.vcproj.8.00.old' としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="Sound" Source="Sound\Sound.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="Sound" Source="Sound\Sound.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Threading" Source="Threading\Threading.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="Threading" Source="Threading\Threading.vcproj" Description="プロジェクト ファイルは正常に 'D:\Hirayama-Common\doc\book\src2008\GameLibs\Modules\Threading\Threading.vcproj.8.00.old' としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="Threading" Source="Threading\Threading.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="Threading" Source="Threading\Threading.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="WindowCreator" Source="WindowCreator\WindowCreator.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="WindowCreator" Source="WindowCreator\WindowCreator.vcproj" Description="プロジェクト ファイルは正常に 'D:\Hirayama-Common\doc\book\src2008\GameLibs\Modules\WindowCreator\WindowCreator.vcproj.8.00.old' としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WindowCreator" Source="WindowCreator\WindowCreator.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="WindowCreator" Source="WindowCreator\WindowCreator.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Base" Source="Base\Base.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="Base" Source="Base\Base.vcproj" Description="プロジェクト ファイルは正常に 'D:\Hirayama-Common\doc\book\src2008\GameLibs\Modules\Base\Base.vcproj.8.00.old' としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="Base" Source="Base\Base.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="Base" Source="Base\Base.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Math" Source="Math\Math.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="Math" Source="Math\Math.vcproj" Description="プロジェクト ファイルは正常に 'D:\Hirayama-Common\doc\book\src2008\GameLibs\Modules\Math\Math.vcproj.8.00.old' としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="Math" Source="Math\Math.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="Math" Source="Math\Math.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="PseudoXml" Source="PseudoXml\PseudoXml.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="PseudoXml" Source="PseudoXml\PseudoXml.vcproj" Description="プロジェクト ファイルは正常に 'D:\Hirayama-Common\doc\book\src2008\GameLibs\Modules\PseudoXml\PseudoXml.vcproj.8.00.old' としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="PseudoXml" Source="PseudoXml\PseudoXml.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="PseudoXml" Source="PseudoXml\PseudoXml.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="Scene" Source="Scene\Scene.vcproj" Description="このアプリケーションは、Windows Vista のユーザー アカウント制御 (UAC) 機能に関連する設定を含むように更新されました。既定で、UAC を有効にして Windows Vista 上でアプリケーションを実行すると、起動したプロセスと同じ特権で実行するようにマークされます。このマークによって、アプリケーションの仮想化による実行も無効になります。プロジェクトのプロパティ ページから UAC 関連の設定を変更できます。">
+</Event><Event ErrorLevel="0" Project="Scene" Source="Scene\Scene.vcproj" Description="プロジェクト ファイルは正常に 'D:\Hirayama-Common\doc\book\src2008\GameLibs\Modules\Scene\Scene.vcproj.8.00.old' としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="Scene" Source="Scene\Scene.vcproj" Description="プロジェクトは正常にアップグレードされました。">
+</Event><Event ErrorLevel="3" Project="Scene" Source="Scene\Scene.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Modules.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="Modules.sln" Description="Converted">
+</Event></UpgradeLog>

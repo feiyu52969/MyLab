@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Common.props(150,5): warning MSB4211: プロパティ "WindowsTargetPlatformVersion" は初めて値に設定されますが、これは "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.props (29,5)" で既に使用されています。
+  Stage.cpp
+c:\users\titatsumi\desktop\myworks\gamelib2008\src\25_usingfinallibrary\robofightusingfinal\stage.cpp(1): fatal error C1083: include ファイルを開けません。'GameLib/Framework.h':No such file or directory
+  Robo.cpp
+c:\users\titatsumi\desktop\myworks\gamelib2008\src\25_usingfinallibrary\robofightusingfinal\robo.cpp(1): fatal error C1083: include ファイルを開けません。'GameLib/Framework.h':No such file or directory
+  Pad.cpp
+c:\users\titatsumi\desktop\myworks\gamelib2008\src\25_usingfinallibrary\robofightusingfinal\pad.cpp(2): fatal error C1083: include ファイルを開けません。'GameLib/GameLib.h':No such file or directory
+  main.cpp
+c:\users\titatsumi\desktop\myworks\gamelib2008\src\25_usingfinallibrary\robofightusingfinal\main.cpp(1): fatal error C1083: include ファイルを開けません。'GameLib/Framework.h':No such file or directory
+  Bullet.cpp
+c:\users\titatsumi\desktop\myworks\gamelib2008\src\25_usingfinallibrary\robofightusingfinal\bullet.cpp(1): fatal error C1083: include ファイルを開けません。'GameLib/GameLib.h':No such file or directory
+  コードを生成中...
