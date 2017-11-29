@@ -1,0 +1,195 @@
+@charset "UTF-8";
+
+
+/*base*/
+
+html 
+{
+  font-size: 62.5%;
+}
+body 
+{
+  font-family: "Hiragino Kaku Gothic ProN", "Meiryo", sans-serif;
+  background-color: #f6f7fb;
+  color: #333;
+}
+*, *::before, *::after
+{
+  box-sizing: border-box;
+}
+a:link, a:visited 
+{
+  color: #333;
+  text-decoration: none;
+}
+a:hover, a:active
+{
+  color: #FF6B68;
+}
+
+
+/*parts*/
+
+/*copyright*/
+.copyright 
+{
+  font-size: 1.6rem;
+  letter-spacing: 1px;
+  text-align: right;
+  margin-bottom: 3px;
+  margin-right: 3px;
+  
+}
+
+/*clearfix*/
+.clearfix::after 
+{
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/*一番目立たせる文*/
+.heading
+{
+  font-size: 3.2rem;
+  margin: 0;
+  padding: 32px 0;
+}
+
+/*二番目に目立たせる文*/
+.subheading
+{
+  font-size: 2.4rem;
+  margin: 0;
+}
+
+/*文章*/
+.text 
+{
+  font-size: 1.6rem;
+  margin: 0;
+  letter-spacing: 1px;
+}
+
+/*navigation*/
+.nav-wrapper
+{
+  margin: 32px 0;
+  list-style-type: none;
+	padding-left: 0;
+}
+.nav.item 
+{
+  display: block;
+  justify-content: center;
+  margin-top: 16px;
+  text-align: center;
+  font-weight: bold;
+}
+
+/*ロゴ*/
+.logo 
+{
+  width: 100%;
+}
+.logo:hover 
+{
+  opacity: 0.8;
+}
+
+/*ヴィデオタグ*/
+video 
+{
+  width: 1024px;
+  height: 576px;
+}
+
+/*作品スライダー部分のラッパー*/
+.swiper-wrapper 
+{
+  padding-bottom: 104px;
+}
+.swiper-wrapper .text
+{
+  padding: 3px;
+  color: #fff;
+  background-color: #12303B;
+} 
+
+/*ボックス状の項目*/
+.boxes
+{
+  width: 100%;
+}
+.box 
+{
+  border: 8px solid;
+  border-radius: 8px;
+  background-color: #fff;
+  margin: 3px;
+  padding: 3px;
+  padding-bottom: 0;
+}
+.box.small
+{
+  width: 296px;
+}
+.box.medium
+{
+  width: 408px;
+}
+.box.large
+{
+  width: 1032px;
+  
+}
+
+/*ジャンル色分けの構想
+.box .lovestory,
+.box .lovestory .genre::before 
+{
+  border-color: #FF8EC6;
+}
+.box .horror,
+.box .horror .genre::before {
+  border-color: #8E8EFF;
+}
+.box .comedy,
+.box .comedy .genre::before {
+  border-color: #8EFF8E;
+}
+.box .sci-fi,
+.box .sci-fi .genre::before {
+  border-color: #8EC6FF;
+}
+.box .action,
+.box .action .genre::before {
+  border-color: #FF8EFF;
+}
+.box .detective,
+.box .detective .genre::before {
+  border-color: #FFC68E;
+}
+.box .history,
+.box .history .genre::before {
+  border-color: #C6FF8E;
+}
+.box .roadmovie,
+.box .roadmovie .genre::before {
+  border-color: #FF8E8E;
+}
+.box .teenmovie,
+.box .teenmovie .genre::before {
+  border-color: #8EFFFF;
+}
+.box .musical,
+.box .musical .genre::before {
+  border-color: #FFFF8E;
+}
+.box .art,
+.box .art .genre::before {
+  border-color: #8EFFC6;
+}
+*/
+

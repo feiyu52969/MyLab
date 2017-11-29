@@ -1,0 +1,133 @@
+@charset "UTF-8";
+
+
+/*base*/
+
+html 
+{
+  font-size: 62.5%;
+}
+body 
+{
+  font-family: 'Syncopate', "Hiragino Kaku Gothic ProN", "Meiryo", sans-serif;
+  background: #e3e3e3 url('../imgs/kimonogirls.jpg') no-repeat fixed left bottom;
+  background-size: cover;
+  color: #333;
+}
+*, *::before, *::after
+{
+  box-sizing: border-box;
+}
+a:link, a:visited 
+{
+  color: #333;
+  text-decoration: none;
+}
+a:hover, a:active
+{
+  color: #FF6B68;
+}
+
+
+/*parts*/
+
+/*copyright*/
+.copyright 
+{
+  font-size: 1.6rem;
+  letter-spacing: 1px;
+  text-align: right;
+  background-color: #fff;
+  color: #000;
+  border-radius: 8px;
+  margin: 0;
+}
+
+/*clearfix*/
+.clearfix::after 
+{
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/*一番目立たせる文*/
+.heading
+{
+  font-size: 8.0rem;
+  margin: 0;
+  padding: 32px 0;
+}
+
+/*二番目に目立たせる文*/
+.subheading
+{
+  font-size: 2.4rem;
+  margin: 0;
+}
+
+/*文章*/
+.text 
+{
+  font-size: 1.6rem;
+  margin: 0;
+  letter-spacing: 1px;
+}
+
+/*作品スライダー部分のラッパー*/
+.swiper-wrapper 
+{
+  padding-bottom: 640px;
+}
+.swiper-wrapper .subheading
+{
+  padding: 8px;
+  color: #fff;
+}
+
+/*introduction*/
+.intro 
+{ 
+  width: 100%;
+  padding: 160px 0;
+  color: #fff;
+  text-align: right;
+}
+
+/*contact*/
+.contact 
+{
+  width: 100%;
+  padding: 80px 0;
+  background-color: #9F58D3;
+  color: #fff;
+}
+
+/*works*/
+.works
+{
+  width: 100%;
+  padding: 400px 0;
+  color: #fff;
+}
+.works .heading
+{
+  text-align: right;
+}
+
+/*advertisement*/
+.ad
+{
+  width: 100%;
+  padding: 320px 0;
+  color: #fff;
+}
+
+/*news*/
+.news 
+{
+  width: 100%;
+  padding: 80px 0;
+  background-color: #EF3C82;
+  color: #fff;
+}

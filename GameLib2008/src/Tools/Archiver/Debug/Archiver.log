@@ -1,0 +1,5 @@
+﻿  main.cpp
+main.cpp(58): fatal error C1083: include ファイルを開けません。'GameLib/GameLib.h':No such file or directory
+  Compress.cpp
+Compress.cpp(1): fatal error C1083: include ファイルを開けません。'GameLib/GameLib.h':No such file or directory
+  コードを生成中...
